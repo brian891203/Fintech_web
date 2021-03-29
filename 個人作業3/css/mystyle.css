@@ -1,0 +1,22 @@
+body{
+ font-family: #微軟正黑體;
+}
+.header{
+ background-color: #ebf2ff;
+}
+
+.header span{
+ margin-right: 15px;
+ color: #2b50a8;
+}
+.choice li {
+ margin-right: 50px;
+}
+.classify span{
+ margin-right: 50px;
+}
+.footer{
+ text-align: center;
+ font-size: 135%;
+ background-color: #fffccc;
+}
